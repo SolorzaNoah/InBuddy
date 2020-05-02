@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "397327766354",
+    "firebase_url": "https://login-a091f.firebaseio.com",
+    "project_id": "login-a091f",
+    "storage_bucket": "login-a091f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397327766354:android:a88d24050017743961608b",
+        "android_client_info": {
+          "package_name": "com.twu.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397327766354-g4cao8kmd1vqojka73qfpl5irb1ficou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN-MzQo-qWcNc-5Y6yAa9MSE3OIMCWyks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397327766354-g4cao8kmd1vqojka73qfpl5irb1ficou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
